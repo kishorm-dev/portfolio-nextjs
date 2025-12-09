@@ -13,7 +13,6 @@ A modern, responsive portfolio website built with Next.js, showcasing projects, 
 - **Contact Form**: Easy way for visitors to reach out
 - **Blog Integration**: Optional blog section for articles
 
-## 🛠️ Tech Stack
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Language**: TypeScript
