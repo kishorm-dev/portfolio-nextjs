@@ -19,7 +19,6 @@ A modern, responsive portfolio website built with Next.js, showcasing projects, 
 - **Styling**: CSS Modules / Tailwind CSS
 - **Deployment**: Vercel (recommended)
 
-## 📦 Getting Started
 
 ### Prerequisites
 
